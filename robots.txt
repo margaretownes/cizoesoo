@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeshohphic.oceanclubnailsfl.com/sitemap.xml
